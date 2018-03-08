@@ -2,6 +2,6 @@ var playlist = {
   artist : "songTitle"
 }
 
-function updatePlaylist() {
+function updatePlaylist(obj, string, title) {
   
 }
